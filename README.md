@@ -10,11 +10,13 @@ Check out what happens when you click on the text "1st Block" below. You'll be a
 ---
 
 <details>
-  <summary>1st Block</summary>
+  <summary>7th Block</summary>
   
   * [Meme](https://github.com/SKHS-GDP-2019-2020/Class-Repositories)
   * [Myself](https://github.com/SKHS-GDP-2019-2020/Class-Repositories)
   * [AndI](https://github.com/SKHS-GDP-2019-2020/Class-Repositories)
+  
+  * Cody Shippley(https://github.com/CodyF16/Class-Repositories)
   
 </details>
 
